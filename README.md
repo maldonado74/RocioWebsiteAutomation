@@ -244,6 +244,9 @@ This project was created to strengthen hands-on experience with:
 - QA Automation Best Practices
 
 ---
+## Framework Structure
+
+![Framework Structure](screenshots/framework-structure.png)
 
 # Author
 
