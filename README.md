@@ -169,9 +169,7 @@ RocioWebsiteAutomation
 
 ## Clone Repository
 
-```bash
-git clone <your-github-repository-url>
-```
+git clone https://github.com/maldonado74/RocioWebsiteAutomation.git
 
 ---
 
