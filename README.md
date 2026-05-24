@@ -246,31 +246,32 @@ This project was created to strengthen hands-on experience with:
 ---
 ## Framework Structure
 
-![Framework Structure](screenshots/framework-structure.png)
+![Framework Structure](testing-UI.png)
 
 ---
 
 ## TestNG Execution Results
 
-![TestNG Results](screenshots/grouping-testing.png)
+![TestNG Results](grouping-testing.png)
 
 ---
 
 ## Screenshot Capture on Failure
 
-![Failure Screenshot](screenshots/screenshot.png)
+![Failure Screenshot](screenshot.png)
 
 ---
 
 ## Extent Report
 
-![Extent Report](screenshots/test-execution-report.png)
+![Extent Report](test-execution-report.png)
 
 ---
 
 ## Live Selenium Browser Automation
 
-![Live Automation](screenshots/testing-UI.png)
+![Live Automation](testing-UI.png)
+
 # Author
 
 Rocio Pamela Mendoza
