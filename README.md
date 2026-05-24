@@ -246,7 +246,7 @@ This project was created to strengthen hands-on experience with:
 ---
 ## Framework Structure
 
-![Framework Structure](testing-UI.png)
+![Framework Structure](framework-structure.png)
 
 ---
 
